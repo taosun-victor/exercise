@@ -12,5 +12,6 @@ class exercises {
 	void add_one_more(void);
 	void add_two_more(void);
 	void add_two_half_more(int a);
+	void add_two_not_half_more(void);
 	void add_three_more(void);
 };
